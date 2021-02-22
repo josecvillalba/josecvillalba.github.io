@@ -1,3 +1,22 @@
+# Angular course
+
+Content
+### 1. HTML5 & CSS
+### 2. Typescript
+### 3. Angular 11
+### 4. Small Project
+- UX Design
+- Angular 11
+- PrimeNG 11
+
+[Link to github pages](https://josecvillalba.github.io/angular-course)
+
+
+
+
+
+# Markdown examples
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/josecvillalba/josecvillalba.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
